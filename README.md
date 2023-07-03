@@ -14,7 +14,7 @@ This Windows MultiTool is a powerful and innovative application designed to enha
 
 - **Registry Cleaner:** The app meticulously scans and cleans your computer's registry, removing outdated or invalid entries that can slow down your system. By optimizing the registry, the MultiTool helps streamline the operating system and accelerates performance.
 
-- **Privacy Protection:** [Your App Name] safeguards your privacy by securely deleting your browsing history, cookies, and temporary internet files.
+- **Privacy Protection:** The MultiTool safeguards your privacy by securely deleting your browsing history, cookies, and temporary internet files.
 
 ## Installation
 
